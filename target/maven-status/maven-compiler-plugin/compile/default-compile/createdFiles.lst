@@ -1,0 +1,9 @@
+com\pages\SC4_PfizerJobSearchPage.class
+com\utils\UtilityClass.class
+com\pages\SC3_PfizerScienceMenuPages.class
+com\controls\ObjectsControl.class
+com\driver\DriverInstance.class
+com\pages\SC2_ContextMenuAlertPage.class
+com\pages\BaseClass.class
+com\pages\SC5_HorizontalSliderPages.class
+com\pages\SC1_AddRemoveElementsPage.class

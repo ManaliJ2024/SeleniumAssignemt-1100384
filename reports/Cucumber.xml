@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="34.135" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Verify Pfizer Science menu Scenrio3" name="Pfizer Science menu Scenrio3 - Example #1.1" time="33.62">
+<system-out><![CDATA[
+Given browser is "chrome"...................................................passed
+Given I navigate to Pfizer App..............................................passed
+When I Hover over Science menu..............................................passed
+When I Hover over clinical trials sub menu..................................passed
+Then Click on clinical Trials in Children...................................passed
+Then Verify "Clinical Trials for Children | Pfize" of this page with one given in feature.passed
+And Scroll down and click "Go to Pfizer Clinical Trials Site" link..........passed
+And Again Verify "Pfizer Clinical Trials | Official Participant Site" of this page with one given in feature.passed
+Then Scroll down to page footer and click on "The Breakthrough newsletter"..passed
+And In the new page, Again Verify "Stories Subscription | Pfizer" of this page with one given in feature.passed
+]]></system-out>
+</testcase>
+</testsuite>
